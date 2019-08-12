@@ -1,15 +1,16 @@
 ---
 layout: page
-title: About
+title: Обо мне
 permalink: /about/
 ---
 
-Some information about you!
+Ланецкий Олег Леонтиевич.
+г.Винница
 
-### More Information
+### Дополнительная информация!
 
-A place to include any other types of information that you'd like to include about yourself.
+web developer занимаюсь разработкой сайтов разной сожности.
 
-### Contact me
+### Связаться со мной!
 
-[email@domain.com](mailto:email@domain.com)
+[cevinweb@gmail.com](mailto:cevinweb@gmail.com)
